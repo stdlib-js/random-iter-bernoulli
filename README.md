@@ -20,7 +20,7 @@ limitations under the License.
 
 # Bernoulli Random Numbers
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Create an iterator for generating pseudorandom numbers drawn from a [Bernoulli][bernoulli] distribution.
 
@@ -223,7 +223,7 @@ while ( true ) {
 
 ## See Also
 
--   [`@stdlib/random/base/bernoulli`][@stdlib/random/base/bernoulli]: Bernoulli distributed pseudorandom numbers.
+-   <span class="package-name">[`@stdlib/random/base/bernoulli`][@stdlib/random/base/bernoulli]</span><span class="delimiter">: </span><span class="description">Bernoulli distributed pseudorandom numbers.</span>
 
 </section>
 
@@ -274,8 +274,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-iter-bernoulli/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/random-iter-bernoulli?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/random-iter-bernoulli.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/random-iter-bernoulli/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
