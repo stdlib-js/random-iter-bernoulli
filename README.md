@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-bernoulli@esm/index.mjs';
+import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-bernoulli@v0.2.0-esm/index.mjs';
 ```
 
 #### iterator( p\[, options] )
@@ -198,7 +198,7 @@ The returned iterator protocol-compliant object has the following properties:
 <body>
 <script type="module">
 
-import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-bernoulli@esm/index.mjs';
+import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-bernoulli@v0.2.0-esm/index.mjs';
 
 var it;
 var r;
